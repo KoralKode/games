@@ -1,0 +1,5 @@
+﻿  snaka.cpp
+C:\Users\stepa\source\repos\snaka\snaka\snaka.cpp(139,1): warning C4297: ss::~ss: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\stepa\source\repos\snaka\snaka\snaka.cpp(139,1): message : деструктор или метод отмены выделения имеет (возможно, неявно) спецификацию, не предусматривающую создание исключений
+C:\Users\stepa\source\repos\snaka\snaka\snaka.cpp(162,13): warning C4101: i: неиспользованная локальная переменная
+  snaka.vcxproj -> C:\Users\stepa\source\repos\snaka\x64\Debug\snaka.exe
